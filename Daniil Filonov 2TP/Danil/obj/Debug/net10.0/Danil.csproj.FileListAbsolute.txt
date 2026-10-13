@@ -1,0 +1,30 @@
+C:\Users\Danil\Downloads\Danil\Danil\bin\Debug\net10.0\Danil.exe
+C:\Users\Danil\Downloads\Danil\Danil\bin\Debug\net10.0\Danil.deps.json
+C:\Users\Danil\Downloads\Danil\Danil\bin\Debug\net10.0\Danil.runtimeconfig.json
+C:\Users\Danil\Downloads\Danil\Danil\bin\Debug\net10.0\Danil.dll
+C:\Users\Danil\Downloads\Danil\Danil\bin\Debug\net10.0\Danil.pdb
+C:\Users\Danil\Downloads\Danil\Danil\obj\Debug\net10.0\Danil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Downloads\Danil\Danil\obj\Debug\net10.0\Danil.AssemblyInfoInputs.cache
+C:\Users\Danil\Downloads\Danil\Danil\obj\Debug\net10.0\Danil.AssemblyInfo.cs
+C:\Users\Danil\Downloads\Danil\Danil\obj\Debug\net10.0\Danil.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Downloads\Danil\Danil\obj\Debug\net10.0\Danil.dll
+C:\Users\Danil\Downloads\Danil\Danil\obj\Debug\net10.0\refint\Danil.dll
+C:\Users\Danil\Downloads\Danil\Danil\obj\Debug\net10.0\Danil.pdb
+C:\Users\Danil\Downloads\Danil\Danil\obj\Debug\net10.0\Danil.genruntimeconfig.cache
+C:\Users\Danil\Downloads\Danil\Danil\obj\Debug\net10.0\ref\Danil.dll
+C:\Users\Danil\Downloads\Danil\Danil\obj\Debug\net10.0\Danil.csproj.Up2Date
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\bin\Debug\net10.0\Danil.exe
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\bin\Debug\net10.0\Danil.deps.json
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\bin\Debug\net10.0\Danil.runtimeconfig.json
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\bin\Debug\net10.0\Danil.dll
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\bin\Debug\net10.0\Danil.pdb
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\obj\Debug\net10.0\Danil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\obj\Debug\net10.0\Danil.AssemblyInfoInputs.cache
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\obj\Debug\net10.0\Danil.AssemblyInfo.cs
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\obj\Debug\net10.0\Danil.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\obj\Debug\net10.0\Danil.dll
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\obj\Debug\net10.0\refint\Danil.dll
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\obj\Debug\net10.0\Danil.pdb
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\obj\Debug\net10.0\Danil.genruntimeconfig.cache
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\obj\Debug\net10.0\ref\Danil.dll
+C:\Users\Danil\Downloads\Daniil Filonov 2TP\Danil\obj\Debug\net10.0\Danil.csproj.Up2Date
