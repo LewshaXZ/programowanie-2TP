@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Daniil Filonov2TP/1.0.0": {
+        "runtime": {
+          "Daniil Filonov2TP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Daniil Filonov2TP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

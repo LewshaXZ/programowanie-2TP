@@ -1,0 +1,15 @@
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\bin\Debug\net10.0\Daniil Filonov2TP.exe
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\bin\Debug\net10.0\Daniil Filonov2TP.deps.json
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\bin\Debug\net10.0\Daniil Filonov2TP.runtimeconfig.json
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\bin\Debug\net10.0\Daniil Filonov2TP.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\bin\Debug\net10.0\Daniil Filonov2TP.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\obj\Debug\net10.0\Daniil Filonov2TP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\obj\Debug\net10.0\Daniil Filonov2TP.AssemblyInfoInputs.cache
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\obj\Debug\net10.0\Daniil Filonov2TP.AssemblyInfo.cs
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\obj\Debug\net10.0\Daniil Filonov2TP.csproj.CoreCompileInputs.cache
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\obj\Debug\net10.0\Daniil Filonov2TP.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\obj\Debug\net10.0\refint\Daniil Filonov2TP.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\obj\Debug\net10.0\Daniil Filonov2TP.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\obj\Debug\net10.0\Daniil Filonov2TP.genruntimeconfig.cache
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\obj\Debug\net10.0\ref\Daniil Filonov2TP.dll
+C:\Users\Danil\OneDrive\Рабочий стол\Daniil Filonov 2Tp zadanie 2\Daniil Filonov2TP\Daniil Filonov2TP\obj\Debug\net10.0\Daniil F.CEF79EEA.Up2Date
